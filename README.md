@@ -4,7 +4,7 @@ Hello guys, Hyd? my name is Théo Cohen Farhat, I have 18 years old and I'm curr
 
 - 🔭 I’m currently working on **ToCoFomi**
 
-It was an app created during an IBM program called "HackaTruck MakerPlace" in Switch Language. However, a professor of my university really liked the app and invited my group to present the project at an technology event as a startup. Hence, my group is working to transform "ToCoFomi" into Dart language, so we can build the app both in IOS and Android.
+It was an app created during an IBM program called "HackaTruck MakerPlace" in Switch Language. However, a professor of my university really liked the app and invited my group to present the project at an technology event as a startup. Hence, my group is working to transform "ToCoFomi" into Dart language with Flutter, so we can build the app both in IOS and Android.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
